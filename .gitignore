@@ -1,0 +1,4 @@
+# ignore useless files
+compiler.cmi 
+compiler.cmo
+compiler.exe
